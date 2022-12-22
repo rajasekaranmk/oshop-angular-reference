@@ -1,7 +1,6 @@
 # Organic Shop
 
-This project demonstrates a simple e-commerce application for an imaginary organic shop. It is built with Angular, Firebase and Bootstrap 4 as the final project in my complete Angular course: 
-<updated>
+This project demonstrates a simple e-commerce application for an imaginary organic shop. It is built with Angular, Firebase and Bootstrap 4 as the final project in my complete Angular course: Updated
 http://programmingwithmosh.com/courses/complete-angular-master-class/
 
 In this course, you'll see how I've built this application, step-by-step.
